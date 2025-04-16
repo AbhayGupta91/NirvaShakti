@@ -1,16 +1,44 @@
-# myapp
+# ⚡ NirvanaGrid
 
-A new Flutter project.
+Real-time, mobile-first monitoring of appliance performance—focused on Power Factor (PF)—with Firebase integration and an animated industrial-style gauge.
 
-## Getting Started
+> ⚠️ This is a work in progress. Not yet production-ready, but fully functional for demos.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📦 Structure
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This project consists of a single mobile application, but built with extensibility and IoT integration in mind.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Folder       | Description                        | Status          |
+|--------------|------------------------------------|-----------------|
+| `/lib`       | Flutter UI, Firebase logic         | ✅ Active       |
+| `/assets`    | Icons, UI resources                | ✅ Packaged     |
+| Firebase     | Realtime Database connection       | ✅ Configured   |
+
+---
+
+## 🎥 Demo
+
+> You can see a sneak peek of the animated gauge and live cloud-connected updates.
+
+![image](https://github.com/user-attachments/assets/ff0554d2-b599-4187-b6ec-d7575d8d0efa)
+![image](https://github.com/user-attachments/assets/a59a9ad1-b156-4af8-93cd-63ec2ea1a305)
+---
+
+## 📲 How It Works
+
+This app listens to real-time data updates from Firebase (specifically the `realtime_data` node), and visualizes the following:
+
+- ✅ **Energy Status** (`ON/OFF`)
+- 📊 **PF Status** (`Normal`, `Warning`, etc.)
+- 🎯 **Power Factor** (live value, animated gauge)
+
+### Sample Data Snapshot
+![image](https://github.com/user-attachments/assets/f4207250-3836-46a8-8a3e-310636595fba)
+
+
+
+
+
+
