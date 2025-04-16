@@ -36,7 +36,8 @@ This app listens to real-time data updates from Firebase (specifically the `real
 - 🎯 **Power Factor** (live value, animated gauge)
 
 ### Sample Data Snapshot
-![image](https://github.com/user-attachments/assets/f4207250-3836-46a8-8a3e-310636595fba)
+![image](https://github.com/user-attachments/assets/f2c8960c-6bef-4342-854d-9ebf74052d96)
+
 
 
 
