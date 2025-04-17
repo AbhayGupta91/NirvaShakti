@@ -23,7 +23,8 @@ This project consists of a single mobile application, but built with extensibili
 > You can see a sneak peek of the animated gauge and live cloud-connected updates.
 
 ![image](https://github.com/user-attachments/assets/ff0554d2-b599-4187-b6ec-d7575d8d0efa)
-![WhatsApp Image 2025-04-17 at 11 30 48_581faddd](https://github.com/user-attachments/assets/1be240b3-1544-4e6a-aefe-478de2322cd6)
+![image](https://github.com/user-attachments/assets/b8719361-5b3a-4518-9332-6d642e060a09)
+
 
 
 ---
